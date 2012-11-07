@@ -22,6 +22,13 @@ layers by its two parts: Action View and Action Controller. These two layers
 are bundled in a single package due to their heavy interdependence. This is
 unlike the relationship between the Active Record and Action Pack that is much
 more separate. Each of these packages can be used independently outside of
+# Ruby on Rails Tutorial: first application
+
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Han Wang].
+
+
 Rails. You can read more about Action Pack in
 link:files/vendor/rails/actionpack/README.html.
 
